@@ -1,0 +1,10 @@
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\RatingCandidate.Tests.dll.config
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\RatingCandidate.Tests.dll
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\RatingCandidate.Tests.pdb
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\RatingCandidate.dll
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\EntityFramework.dll
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\RatingCandidate.pdb
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\bin\Debug\EntityFramework.xml
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\obj\Debug\RatingCandidate.Tests.csprojResolveAssemblyReference.cache
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\obj\Debug\RatingCandidate.Tests.dll
+c:\users\senior\documents\visual studio 2012\Projects\RatingCandidate\RatingCandidate.Tests\obj\Debug\RatingCandidate.Tests.pdb
